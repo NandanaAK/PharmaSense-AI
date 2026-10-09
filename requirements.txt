@@ -1,1 +1,10 @@
-
+streamlit
+duckdb
+pandas
+numpy
+scikit-learn
+sentence-transformers
+transformers
+torch
+torchvision
+google-genai
